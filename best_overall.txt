@@ -1,1 +1,10 @@
-dummy proxy
+socks5://pwd:pwd@38.34.7.157:38021
+socks5://pwd:pwd@216.36.109.82:38021
+socks5://pwd:pwd@38.209.126.111:38021
+socks5://pwd:pwd@66.253.7.216:38021
+socks5://pwd:pwd@107.150.102.136:38021
+socks5://pwd:pwd@38.34.1.42:38021
+socks5://pwd:pwd@154.51.40.87:38021
+socks5://pwd:pwd@38.179.84.219:38021
+socks5://pwd:pwd@154.12.49.75:38021
+socks5://pwd:pwd@118.26.38.86:38021
